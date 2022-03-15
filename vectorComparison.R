@@ -24,3 +24,12 @@ views <=14
 
 #take last element of linkedin
 last <- tail(linkedin,1)
+
+#Is last under 5 or above 10?
+last<5 | last>10
+
+# Is last between 15(exclusive) and 20 (inclusive)
+last>15 & last<=20
+
+#linkedin exceeds 10 but facebook below 10
+linkedin>10 & facebook<10
