@@ -21,3 +21,6 @@ views == 13
 
 #views less than or equal to 14
 views <=14
+
+#take last element of linkedin
+last <- tail(linkedin,1)
