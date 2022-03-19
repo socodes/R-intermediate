@@ -1,6 +1,6 @@
 # R Intermediate Operations
 
-  This repository covers
+### This repository covers
     -comparison
     -vector comparisons
     -conditionals
